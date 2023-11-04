@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="half_circle_background" type="id">xml</item>
+    <item name="profile_photo_card" type="id">xml</item>
+    <item name="user_name_card" type="id">xml</item>
+    <item name="email_card" type="id">xml</item>
+    <item name="aadhar_card" type="id">xml</item>
+    <item name="phone_card" type="id">xml</item>
+</resources>
